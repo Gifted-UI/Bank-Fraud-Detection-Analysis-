@@ -27,29 +27,98 @@ Financial institutions process millions of transactions daily, making it difficu
 
 ## Dashboard Pages
 
-### Executive Summary
+## 1. Executive Summary
+
+### Overview
+This page provides a high-level overview of fraud performance using key performance indicators and summary visuals.
+
+### Key Metrics
 - Total Transactions
-- Total Fraud Transactions
+- Total Fraud Cases
 - Fraud Rate
 - Total Transaction Amount
-- Average Transaction Amount
-
-
-### Fraud Analysis
-- Fraud Trend
-- Fraud by Country
-- Fraud by Transaction Type
-- Fraud by Customer Segment
-
-### Customer Analysis
-- High-Risk Customers
-- Customer Demographics
-- Account Balance Distribution
-
-### Transaction Analysis
-- Transaction Volume
+- Total Customers
 - Average Transaction Value
-- Transaction Frequency
+
+### Dashboard Preview
+
+![Executive Summary](Images/Executive_Summary.png)
+
+## 2. Risk Driver Analysis
+
+### Overview
+This page identifies the major factors contributing to fraudulent activities and highlights the key drivers of fraud risk.
+
+### Key Insights
+- Fraud by Transaction Type
+- Fraud by Amount Range
+- Fraud Trend Over Time
+- High-Risk Indicators
+
+### Dashboard Preview
+
+![Risk Driver Analysis](Images/Risk_Driver_Analysis.png)
+
+## 3. Customer Risk Analysis
+
+### Overview
+This page evaluates customer behavior to identify high-risk customers and understand fraud patterns across customer segments.
+
+### Key Insights
+- High-Risk Customers
+- Customer Segmentation
+- Fraud by Customer Age Group
+- Fraud by Account Type
+
+### Dashboard Preview
+
+![Customer Risk Analysis](Images/Customer_Risk_Analysis.png)
+
+## 4. Transaction Risk Analysis
+
+### Overview
+This page analyzes transaction characteristics to identify suspicious activities and unusual transaction patterns.
+
+### Key Insights
+- Transaction Volume
+- Transaction Amount Distribution
+- Fraud by Transaction Type
+- Time-Based Fraud Analysis
+
+### Dashboard Preview
+
+![Transaction Risk Analysis](Images/Transaction_Risk_Analysis.png)
+
+## 5. Channel & Geography Risk Analysis
+
+### Overview
+This page examines fraud occurrences across transaction channels and geographic locations to identify high-risk regions and channels.
+
+### Key Insights
+- Fraud by Country
+- Fraud by Region
+- Fraud by Transaction Channel
+- Geographic Risk Distribution
+
+### Dashboard Preview
+
+![Channel & Geography Risk Analysis](Images/Channel_Geography_Risk_Analysis.png)
+
+## 6. Investigation & Control Risk Analysis
+
+### Overview
+This page supports fraud investigations by monitoring alerts, evaluating control effectiveness, and identifying areas requiring further review.
+
+### Key Insights
+- Investigation Status
+- Fraud Alerts
+- Control Effectiveness
+- High-Priority Cases
+- Risk Severity
+
+### Dashboard Preview
+
+![Investigation & Control Risk Analysis](Images/Investigation_Control_Risk_Analysis.png)
 
 ---
 
@@ -111,12 +180,6 @@ Bank-Fraud-Detection-Analysis
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add screenshots of your dashboard here.)
-
----
-
 ## 👩‍💻 Author
 
 **Deborah Obimakinde**
@@ -125,7 +188,7 @@ Bank-Fraud-Detection-Analysis
 - Financial Analyst
 - Data Analyst
 
-LinkedIn: *(Insert your LinkedIn profile)*
+LinkedIn: *(www.linkedin.com/in/deborahobimakinde)*
 
 GitHub: *(Insert your GitHub profile)*
 
