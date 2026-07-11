@@ -1,5 +1,3 @@
-# Bank-Fraud-Detection-Analysis-
-An interactive Power BI dashboard that analyzes banking transactions to identify fraud patterns, monitor fraud trends, evaluate customer behavior, and provide actionable business insights using Power BI, Power Query, and DAX.
 # Bank Fraud Detection Analysis
 
 ## Project Overview
@@ -42,7 +40,7 @@ This page provides a high-level overview of fraud performance using key performa
 
 ### Dashboard Preview
 
-![Executive Summary](Images/Executive_Summary.png)
+![Executive Summary](executive%20summary.png)
 
 ## 2. Risk Driver Analysis
 
@@ -57,7 +55,7 @@ This page identifies the major factors contributing to fraudulent activities and
 
 ### Dashboard Preview
 
-![Risk Driver Analysis](Images/Risk_Driver_Analysis.png)
+![Risk Driver Analysis](risk%20driver%20analysis.png)
 
 ## 3. Customer Risk Analysis
 
@@ -72,7 +70,7 @@ This page evaluates customer behavior to identify high-risk customers and unders
 
 ### Dashboard Preview
 
-![Customer Risk Analysis](Images/Customer_Risk_Analysis.png)
+![Customer Risk Analysis](Customer%20Risk%20Analysis.png)
 
 ## 4. Transaction Risk Analysis
 
@@ -87,7 +85,7 @@ This page analyzes transaction characteristics to identify suspicious activities
 
 ### Dashboard Preview
 
-![Transaction Risk Analysis](Images/Transaction_Risk_Analysis.png)
+![Transaction Risk Analysis](transaction%20risk%20analysis.png)
 
 ## 5. Channel & Geography Risk Analysis
 
@@ -102,7 +100,7 @@ This page examines fraud occurrences across transaction channels and geographic 
 
 ### Dashboard Preview
 
-![Channel & Geography Risk Analysis](Images/Channel_Geography_Risk_Analysis.png)
+![Channel & Geography Risk Analysis](channel%20geography%20risk%20analysis.png)
 
 ## 6. Investigation & Control Risk Analysis
 
@@ -118,11 +116,11 @@ This page supports fraud investigations by monitoring alerts, evaluating control
 
 ### Dashboard Preview
 
-![Investigation & Control Risk Analysis](Images/Investigation_Control_Risk_Analysis.png)
+![Investigation & Control Risk Analysis](investigation%20Control%20risk%20analysis.png)
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Fraud cases are concentrated within specific transaction types.
 - Some countries recorded significantly higher fraud rates than others.
@@ -132,7 +130,7 @@ This page supports fraud investigations by monitoring alerts, evaluating control
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Power BI
 - Power Query
@@ -140,33 +138,7 @@ This page supports fraud investigations by monitoring alerts, evaluating control
 - Microsoft Excel
 
 ---
-
-## 📂 Project Structure
-
-```
-Bank-Fraud-Detection-Analysis
-│
-├── Dashboard
-│   └── Bank Fraud Analysis.pbix
-│
-├── Dataset
-│   └── Bank_Fraud_Dataset.csv
-│
-├── Documentation
-│   └── Project Report.pdf
-│
-├── Images
-│   ├── Executive Summary.png
-│   ├── Fraud Analysis.png
-│   ├── Customer Analysis.png
-│   └── Transaction Analysis.png
-│
-└── README.md
-```
-
----
-
-## 📌 Skills Demonstrated
+### Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -178,9 +150,12 @@ Bank-Fraud-Detection-Analysis
 - Dashboard Design
 - Storytelling with Data
 
+### Presentation Report 
+![bank_fraud_detection_analysis](bank_fraud_detection_analysis.png)
+
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Deborah Obimakinde**
 
@@ -192,6 +167,4 @@ LinkedIn: *(www.linkedin.com/in/deborahobimakinde)*
 
 GitHub: *(Insert your GitHub profile)*
 
----
-
-## ⭐ If you found this project helpful, please consider giving it a star.
+```
