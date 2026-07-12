@@ -151,7 +151,7 @@ This page supports fraud investigations by monitoring alerts, evaluating control
 - Storytelling with Data
 
 ### Presentation Report 
-[Bank Fraud Detection Analysis Presentation](Presentation/bank_fraud_detection_analysis.pptx)
+[Bank Fraud Detection Analysis Presentation](bank_fraud_detection_analysis.pptx)
 
 ---
 
@@ -165,6 +165,6 @@ This page supports fraud investigations by monitoring alerts, evaluating control
 
 LinkedIn: *(www.linkedin.com/in/deborahobimakinde)*
 
-GitHub: *(Insert your GitHub profile)*
+GitHub: *(https://github.com/Gifted-UI)*
 
 ```
