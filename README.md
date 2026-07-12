@@ -70,7 +70,7 @@ This page evaluates customer behavior to identify high-risk customers and unders
 
 ### Dashboard Preview
 
-![Customer Risk Analysis](Customer%20Risk%20Analysis.png)
+![Customer Risk Analysis](customer%20risk%20analysis.png)
 
 ## 4. Transaction Risk Analysis
 
@@ -100,7 +100,7 @@ This page examines fraud occurrences across transaction channels and geographic 
 
 ### Dashboard Preview
 
-![Channel & Geography Risk Analysis](channel%20geography%20risk%20analysis.png)
+![Channel & Geography Risk Analysis](channel%20&%20geography%20risk%20analysis.png)
 
 ## 6. Investigation & Control Risk Analysis
 
@@ -116,7 +116,7 @@ This page supports fraud investigations by monitoring alerts, evaluating control
 
 ### Dashboard Preview
 
-![Investigation & Control Risk Analysis](investigation%20Control%20risk%20analysis.png)
+![Investigation & Control Risk Analysis](investigation%20and%20control%20analysis.png)
 
 ---
 
@@ -151,7 +151,7 @@ This page supports fraud investigations by monitoring alerts, evaluating control
 - Storytelling with Data
 
 ### Presentation Report 
-![bank_fraud_detection_analysis](bank_fraud_detection_analysis.png)
+[Bank Fraud Detection Analysis Presentation](Presentation/bank_fraud_detection_analysis.pptx)
 
 ---
 
